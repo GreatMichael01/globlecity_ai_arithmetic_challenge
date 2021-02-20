@@ -1,2 +1,3 @@
-# globlecity_ai_arithmetic_challenge
-全球人工智能算法挑战赛
+# GlobleCity_AI_Arithmetic_Challenge
+
+赛题链接： https://tianchi.aliyun.com/competition/entrance/231708/information
